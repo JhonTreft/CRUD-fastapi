@@ -21,7 +21,7 @@ pip install -r requirements.txt
 #### REDIS_HOST=""
 #### REDIS_PORT=
 #### REDIS_PASSWORD=""
-# REDIS_SSL=
+#### REDIS_SSL=
 
 
 ### Ejecucion
