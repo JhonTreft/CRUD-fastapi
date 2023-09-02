@@ -18,9 +18,9 @@ pip install -r requirements.txt
 ```
 ### Creacion de Variables de Entorno para upstash
 
-### REDIS_HOST=""
-### REDIS_PORT=
-### REDIS_PASSWORD=""
+#### REDIS_HOST=""
+#### REDIS_PORT=
+#### REDIS_PASSWORD=""
 # REDIS_SSL=
 
 
