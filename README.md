@@ -7,7 +7,7 @@ Este es un proyecto CRUD (Crear, Leer y Eliminar) simple desarrollado con FastAP
 
 ## Configuración del Entorno
 
-### Requisitos Previos
+## Requisitos Previos
 
 Asegúrate de tener instalado Python en tu sistema. Puedes descargarlo desde [python.org](https://www.python.org/downloads/).
 
@@ -16,7 +16,7 @@ Asegúrate de tener instalado Python en tu sistema. Puedes descargarlo desde [py
 ```bash
 pip install -r requirements.txt
 ```
-### Creacion de Variables de Entorno para upstash
+## Creacion de Variables de Entorno para upstash
 
 #### REDIS_HOST=""
 #### REDIS_PORT=
@@ -24,7 +24,7 @@ pip install -r requirements.txt
 #### REDIS_SSL=
 
 
-### Ejecucion
+## Ejecucion
 ```bash	
 uvicorn main:app --reload --env-file=.env
 ```
